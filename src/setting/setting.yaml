@@ -1,0 +1,12 @@
+login:
+# UserName for logging in to the website
+  UserName: 'xxxxx'
+# PassWord for logging in to the website
+  PassWord: 'xxxxx'
+# The URL of the login page
+  LoginUrl: 'https://passport.jd.com/uc/login'
+# After login, go to the URL of the page
+  MainUrl: 'https://www.jd.com/'
+# Number of retries for slider validation
+  Retry_times: 50
+
